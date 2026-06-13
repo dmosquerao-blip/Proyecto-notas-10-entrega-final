@@ -26,11 +26,11 @@ Notas 10.xlsx
 
 La base contiene:
 
-1.Identificador del estudiante.
-2.Nombre del estudiante.
-3.Calificaciones de las asignaturas.
-4.Especialidad técnica codificada mediante variables binarias (One-Hot Encoding).
-5.Especialidades técnicas analizadas
+1. Identificador del estudiante.
+2. Nombre del estudiante.
+3. Calificaciones de las asignaturas.
+4. Especialidad técnica codificada mediante variables binarias (One-Hot Encoding).
+5. Especialidades técnicas analizadas
 Electricidad
 Electrónica
 Electromecánica
