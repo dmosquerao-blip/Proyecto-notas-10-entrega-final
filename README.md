@@ -64,7 +64,8 @@ Evaluación del modelo mediante métricas como R² y error cuadrático medio (MS
 Aplicación de algoritmos de clustering (como K-Means) para agrupar estudiantes según su rendimiento académico.
 Visualización de los grupos obtenidos.
 Interpretación de los clusters en función del desempeño y la especialidad técnica.
-Herramientas utilizadas
+
+# Herramientas utilizadas
 Python 3.14.5
 Pandas
 NumPy
