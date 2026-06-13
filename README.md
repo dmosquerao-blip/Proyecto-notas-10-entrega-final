@@ -9,14 +9,14 @@ La base de datos contiene las calificaciones de 197 estudiantes en diferentes as
 
 Determinar si la especialidad técnica cursada por los estudiantes influye significativamente en su rendimiento académico promedio.
 
-#Objetivos específicos
-1.Calcular el promedio académico general de cada estudiante.
-2.Realizar un análisis descriptivo de las calificaciones.
-3.Comparar los promedios académicos entre las diferentes especialidades técnicas.
-4.Aplicar pruebas estadísticas para evaluar diferencias significativas entre grupos.
-5.Construir modelos de estimación para analizar la relación entre la especialidad técnica y el rendimiento académico.
-5.Aplicar regresión lineal para modelar la relación entre variables académicas y el promedio general.
-7.Implementar técnicas de clusterización para identificar grupos de estudiantes con patrones de rendimiento similares.
+# Objetivos específicos
+1. Calcular el promedio académico general de cada estudiante.
+2. Realizar un análisis descriptivo de las calificaciones.
+3. Comparar los promedios académicos entre las diferentes especialidades técnicas.
+4. Aplicar pruebas estadísticas para evaluar diferencias significativas entre grupos.
+5. Construir modelos de estimación para analizar la relación entre la especialidad técnica y el rendimiento académico.
+6. Aplicar regresión lineal para modelar la relación entre variables académicas y el promedio general.
+7. Implementar técnicas de clusterización para identificar grupos de estudiantes con patrones de rendimiento similares.
 
 # Base de datos
 
